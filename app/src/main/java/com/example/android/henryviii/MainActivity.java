@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
         EditText text = findViewById(R.id.question1);
         String answer = text.getText().toString();
 
-        if (answer.equals("ENGLAND")) {
+        if (answer.equalsIgnoreCase("england")) {
             score = score + 1;
         }
 
@@ -89,26 +89,27 @@ public class MainActivity extends AppCompatActivity {
         CheckBox  checkbox_1= (CheckBox) findViewById(R.id.chkbx_1);
         boolean  excr_1= checkbox_1.isChecked();
 
-        // adds 1 point if extra credit question is checked
-        if (excr_1){
-            score = score + 1;
-        }
 
         // extra credit quest 2 checkbox
         CheckBox checkbox_2 = (CheckBox) findViewById(R.id.chkbx_2);
         boolean excr_2 = checkbox_2.isChecked();
-
-        // adds 1 point if extra credit question is checked
-        if (excr_2) {
-            score = score + 1;
-        }
 
         // extra credit quest 3 checkbox
         CheckBox checkbox_3 = (CheckBox) findViewById(R.id.chkbx_3);
         boolean excr_3 = checkbox_3.isChecked();
 
         // adds 1 point if extra credit question is checked
-        if (excr_3) {
+        if (excr_1){
+            score = score + 1;
+        }
+
+        // adds 1 point if extra credit question is checked
+        else if (excr_2) {
+            score = score + 1;
+        }
+
+        // adds 1 point if extra credit question is checked
+        else if (excr_3) {
             score = score + 1;
         }
 
