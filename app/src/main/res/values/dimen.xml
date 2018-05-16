@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--margins-->
+    <dimen name="margin_med">8dp</dimen>
+    <dimen name="margin_lg">16dp</dimen>
+    <dimen name="left_margin_sm">4dp</dimen>
+
+    <!--top margins-->
+    <dimen name="top_margin_sm">4dp</dimen>
+    <dimen name="top_margin_med">8dp</dimen>
+
+    <!--bottom margins-->
+    <dimen name="bottom_margin_sm">4dp</dimen>
+    <dimen name="bottom_margin_med">8dp</dimen>
+
+    <!--padding-->
+    <dimen name="padding_lg">16dp</dimen>
+    <dimen name="left_padding_large">16dp</dimen>
+    <dimen name="right_padding_large">16dp</dimen>
+    <dimen name="left_padding_small">4dp</dimen>
+    <dimen name="right_padding_small">4dp</dimen>
+
+
+</resources>

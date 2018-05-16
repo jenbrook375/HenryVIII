@@ -14,18 +14,12 @@
     <string name="kathryn_howard">Henry married 19 year old Kathryn Howard when he was 39. She was executed less than two years later. Why?</string>
     <string name="heresy_and_witchcraft">She was accused of heresy and witchcraft</string>
     <string name="fornication_and_adultery">She was accused of fornication and adultery</string>
-    <string name="check_your_score">check your score</string>
-    <string name="france">France</string>
     <string name="spain">Spain</string>
-    <string name="germany">Germany</string>
     <string name="england">England</string>
     <string name="italy">Italy</string>
     <string name="the_netherlands">The Netherlands</string>
     <string name="see_your_results">See your results</string>
-    <string name="reset">Reset</string>
     <string name="history">6/7 \n Great job! You really know your history!</string>
-    <string name="let_s_play">How much do you know about the Six Wives of King Henry VIII? Ready? Let\'s Play!</string>
-    <string name="try_again">Try again</string>
     <string name="mary_queen_of_scots">Mary, Queen of Scots</string>
     <string name="lady_jane_grey">Lady Jane Grey</string>
     <string name="daughters">Henry had her killed because he wanted sons and she bore only daughters</string>
@@ -40,7 +34,14 @@
     <string name="son">She finally bore him the son he had always wanted</string>
     <string name="outlived">She outlived him</string>
     <string name="perfect">7/7   Perfect Score! You are the history champ</string>
-    <string name="thanks">5/7 Nice try.  Thanks for playing</string>
-    <string name="less">Less than 5/7  Too bad, not everyone can be good at history</string>
-    <string name="how_much_do_you_know_about_the_six_wives_of_henry_vii_let_s_find_out">How much do you know about the Six Wives of Henry VII? Let\'s find out!</string>
+    <string name="thanks">5/7 Not bad!  Thanks for playing</string>
+    <string name="less">You got fewer than 5 answers corrct. Sorry, not everyone can be good at history</string>
+    <string name="your_answer">Your Answer</string>
+    <string name="trouble">After all of that trouble, he still didn\'t have a son that lived to adulthood</string>
+    <string name="queen_anyway">He disinherited his two daughters, each became Queen anyway</string>
+    <string name="greatest">He didn\'t think a woman could carry on the Tudor dynasty, then his daughter became the greatest Queen in England\'s history</string>
+    <string name="irony">EXTRA CREDIT
+        \n
+        \nWhat was the greatest irony of Henry\'s many marriages?</string>
+    <string name="how_much_do_you_know_about_the_six_wives_of_king_henry_viii">How much do you know about the six wives of King Henry VIII?</string>
 </resources>
