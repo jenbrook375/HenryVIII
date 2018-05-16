@@ -16,8 +16,6 @@ import com.example.android.henryviii.R;
 
 public class MainActivity extends AppCompatActivity {
 
-    int score = 0;
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -29,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
      * This method is called when the Submit button is clicked.
      */
     public void submit(View view) {
+        int score = 0;
 
         /** Question 1 correct answer field England*/
         EditText text = findViewById(R.id.question1);
